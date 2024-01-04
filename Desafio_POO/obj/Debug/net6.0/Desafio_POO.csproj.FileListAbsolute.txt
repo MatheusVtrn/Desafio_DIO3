@@ -1,0 +1,15 @@
+C:\Users\mateu\Desktop\Desafio_POO\Desafio_POO\bin\Debug\net6.0\Desafio_POO.exe
+C:\Users\mateu\Desktop\Desafio_POO\Desafio_POO\bin\Debug\net6.0\Desafio_POO.deps.json
+C:\Users\mateu\Desktop\Desafio_POO\Desafio_POO\bin\Debug\net6.0\Desafio_POO.runtimeconfig.json
+C:\Users\mateu\Desktop\Desafio_POO\Desafio_POO\bin\Debug\net6.0\Desafio_POO.dll
+C:\Users\mateu\Desktop\Desafio_POO\Desafio_POO\bin\Debug\net6.0\Desafio_POO.pdb
+C:\Users\mateu\Desktop\Desafio_POO\Desafio_POO\obj\Debug\net6.0\Desafio_POO.csproj.AssemblyReference.cache
+C:\Users\mateu\Desktop\Desafio_POO\Desafio_POO\obj\Debug\net6.0\Desafio_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Desktop\Desafio_POO\Desafio_POO\obj\Debug\net6.0\Desafio_POO.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\Desafio_POO\Desafio_POO\obj\Debug\net6.0\Desafio_POO.AssemblyInfo.cs
+C:\Users\mateu\Desktop\Desafio_POO\Desafio_POO\obj\Debug\net6.0\Desafio_POO.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\Desafio_POO\Desafio_POO\obj\Debug\net6.0\Desafio_POO.dll
+C:\Users\mateu\Desktop\Desafio_POO\Desafio_POO\obj\Debug\net6.0\refint\Desafio_POO.dll
+C:\Users\mateu\Desktop\Desafio_POO\Desafio_POO\obj\Debug\net6.0\Desafio_POO.pdb
+C:\Users\mateu\Desktop\Desafio_POO\Desafio_POO\obj\Debug\net6.0\Desafio_POO.genruntimeconfig.cache
+C:\Users\mateu\Desktop\Desafio_POO\Desafio_POO\obj\Debug\net6.0\ref\Desafio_POO.dll
